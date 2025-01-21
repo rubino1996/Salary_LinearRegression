@@ -33,4 +33,4 @@ Salary: Dependent variable (target).
 The dataset is loaded from a CSV file (salary_dataset.csv) and preprocessed for training.
 
 **How to Use**
-Just clone repository ()and run the main.py function 
+Just clone repository (https://github.com/rubino1996/Salary_LinearRegression.git) and run the main.py function 
