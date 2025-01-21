@@ -9,6 +9,15 @@ A cost function implementation to measure model accuracy.
 Gradient descent optimization to minimize the cost and improve predictions.
 Visualization of the optimization process and the final regression line.
 
+**Cost**
+The cost function measures how well the linear regression model fits the data by quantifying the difference between predicted and actual values. Minimizing the cost ensures better predictions.
+
+**Gradient**
+The gradient indicates the direction and rate of change of the cost with respect to the model parameters (w and b). It helps determine how the parameters should be adjusted to reduce the cost.
+
+**Iterative Gradient (Gradient Descent)**
+Gradient descent is an iterative optimization algorithm that uses the gradient to update the model parameters step by step. This process gradually minimizes the cost function, leading to optimal parameters for the linear regression model.
+
 **Features**
 
 Data Loading: Reads salary data from a CSV file.
