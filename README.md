@@ -12,9 +12,13 @@ Visualization of the optimization process and the final regression line.
 **Features**
 
 Data Loading: Reads salary data from a CSV file.
+
 Data Visualization: Displays scatter plots to illustrate the relationship between the independent and dependent variables.
+
 Cost Function Implementation: Calculates the mean squared error to assess model performance.
+
 Gradient Descent: Optimizes model parameters (w and b) through iterative updates.
+
 Prediction and Visualization: Plots the final regression line alongside the training data.
 
 **Dataset**
@@ -27,3 +31,6 @@ Years of Experience: Independent variable (input feature).
 Salary: Dependent variable (target).
 
 The dataset is loaded from a CSV file (salary_dataset.csv) and preprocessed for training.
+
+**How to Use**
+Just clone repository ()and run the main.py function 
