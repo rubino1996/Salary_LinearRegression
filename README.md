@@ -23,5 +23,7 @@ The dataset used for this project is sourced from Kaggle: [Salary Dataset for Si
 It consists of two columns:
 
 Years of Experience: Independent variable (input feature).
+
 Salary: Dependent variable (target).
+
 The dataset is loaded from a CSV file (salary_dataset.csv) and preprocessed for training.
