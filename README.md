@@ -4,10 +4,10 @@ The model is developed from scratch using Python and foundational mathematical c
 
 The project includes:
 
-Data visualization to explore the relationship between years of experience and salary.
-A cost function implementation to measure model accuracy.
-Gradient descent optimization to minimize the cost and improve predictions.
-Visualization of the optimization process and the final regression line.
+1) Data visualization to explore the relationship between years of experience and salary.
+2) A cost function implementation to measure model accuracy.
+3) Gradient descent optimization to minimize the cost and improve predictions.
+4) Visualization of the optimization process and the final regression line.
 
 **Cost**:
 The cost function measures how well the linear regression model fits the data by quantifying the difference between predicted and actual values. Minimizing the cost ensures better predictions.
@@ -20,24 +20,24 @@ Gradient descent is an iterative optimization algorithm that uses the gradient t
 
 **Features**
 
-Data Loading: Reads salary data from a CSV file.
+-Data Loading: Reads salary data from a CSV file.
 
-Data Visualization: Displays scatter plots to illustrate the relationship between the independent and dependent variables.
+-Data Visualization: Displays scatter plots to illustrate the relationship between the independent and dependent variables.
 
-Cost Function Implementation: Calculates the mean squared error to assess model performance.
+-Cost Function Implementation: Calculates the mean squared error to assess model performance.
 
-Gradient Descent: Optimizes model parameters (w and b) through iterative updates.
+-Gradient Descent: Optimizes model parameters (w and b) through iterative updates.
 
-Prediction and Visualization: Plots the final regression line alongside the training data.
+-Prediction and Visualization: Plots the final regression line alongside the training data.
 
 **Dataset**
 
 The dataset used for this project is sourced from Kaggle: [Salary Dataset for Simple Linear Regression](https://www.kaggle.com/datasets/abhishek14398/salary-dataset-simple-linear-regression/data).
 It consists of two columns:
 
-Years of Experience: Independent variable (input feature).
+-Years of Experience: Independent variable (input feature).
 
-Salary: Dependent variable (target).
+-Salary: Dependent variable (target).
 
 The dataset is loaded from a CSV file (salary_dataset.csv) and preprocessed for training.
 
